@@ -27,6 +27,6 @@ lastone-4425e-firebase-adminsdk-pyuqq-3fca50fab4.json
 
 # Add this to .gitignore
 backend/.env
-backend/config/lastone-4425e-firebase-adminsdk-pyuqq-3fca50fab4.json
+# backend/config/lastone-4425e-firebase-adminsdk-pyuqq-3fca50fab4.json
 backend/.env
-backend/config/*.json
+# backend/config/*.json

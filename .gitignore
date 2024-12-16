@@ -23,7 +23,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lastone-4425e-firebase-adminsdk-pyuqq-3fca50fab4.json
-/config
+# /config
 
 # Add this to .gitignore
 backend/.env
